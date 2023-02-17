@@ -6,3 +6,8 @@ This repository is for storing the tasks for the project 2035
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia)](https://github.com/piyushsuthar/github-readme-quotes)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Bolik07)](https://git.io/streak-stats)
+
+<!---Для компактной версии-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bolik07&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!---Для подробной версии-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bolik07)](https://github.com/anuraghazra/github-readme-stats)
